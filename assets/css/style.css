@@ -1,4 +1,58 @@
 body {
     font-family: 'Cabin', sans-serif;
+}
+
+.navbar-brand, .footer-brand {
     font-family: 'Lobster', cursive;
+    font-size: 2.3125rem;
+    color: #ffffff;
+}
+
+.pizza-principal {
+    width: 33.5rem;
+    height: 24rem;
+}
+
+.title-pizza {
+    font-weight: 700;
+    color: #373A3C;
+    width: 26.5625rem;
+}
+
+.subtitle-pizza {
+    margin-top: 1.25rem;
+    padding-top: 1.25rem;
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #373A3C;
+}
+
+.btn-pizza {
+    background-color: #ffffff;
+    font-weight: 400;
+    font-size: 1rem;
+    color:#373A3C;
+}
+
+.img {
+    width: 14.5625rem;
+    height: 10.625rem;
+}
+
+.carousel-indicators {
+    top: 12.5rem;  
+}
+
+.carousel-indicators li {
+    width: 0.625rem;
+    height: 0.625rem;
+    border-radius: 50%;
+    background-color: #373A3C; 
+}
+
+h4, p {
+   font-size: 1.25rem; 
+   font-weight: 400;
+   text-align: left;
+   color: #373A3C;
 }
