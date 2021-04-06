@@ -8,6 +8,10 @@ body {
     color: #ffffff;
 }
 
+.footer-brand {
+    text-align: center;
+}
+
 .pizza-principal {
     width: 33.5rem;
     height: 24rem;
@@ -55,4 +59,22 @@ h4, p {
    font-weight: 400;
    text-align: left;
    color: #373A3C;
+}
+
+.title-relacionadas {
+    font-weight: 700;
+    color: #373A3C;
+    text-align: center;
+}
+
+.suscripcion {
+    background-color: #DC3545;
+    text-align: center;
+    color: #ffffff;
+    height: 33.375rem;
+    width: auto;
+}
+
+.suscripcion-content {
+    padding-top: 9.375rem;
 }
