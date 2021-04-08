@@ -38,6 +38,12 @@ body {
     color:#373A3C;
 }
 
+.tooltip-inner{
+    height: 30px;
+    white-space: nowrap;
+    max-width: none;
+}
+
 .img {
     width: 14.5625rem;
     height: 10.625rem;
